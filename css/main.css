@@ -1142,6 +1142,7 @@ pre .javascript .function {
   .site-subtitle {
     font-size: 11px;
     margin: 0 !important;
+    top: -5px !important;
   }
 }
 .use-motion .brand {
@@ -1837,7 +1838,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #320be0;
+  background: #b3409e;
 }
 .links-of-blogroll {
   font-size: 13px;
