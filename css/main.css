@@ -1138,6 +1138,12 @@ pre .javascript .function {
   font-size: 13px;
   color: #ddd;
 }
+@media (max-width: 767px) {
+  .site-subtitle {
+    font-size: 11px;
+    margin: 0 !important;
+  }
+}
 .use-motion .brand {
   opacity: 0;
 }
@@ -1831,7 +1837,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #aff;
+  background: #320be0;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2761,7 +2767,7 @@ pre .javascript .function {
 @media (max-width: 767px) {
   .site-meta {
     box-shadow: 0 0 16px rgba(0,0,0,0.5);
-    padding: 10px 0;
+    padding: 0px 0;
   }
 }
 .brand {
